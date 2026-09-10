@@ -1,0 +1,13 @@
+management.sch: Management Schedule 2| No Till, Cover Crop, Early Fertilizer
+name                                       numb_ops  numb_auto            op_typ       mon       day        hu_sch          op_data1          op_data2      op_data3  
+NE_Hay_Reduced                    2          1  
+                                                     hay_cutting  
+                                                            fert         &         1       0.00000          FERTILIZ     APPLICATIONXX    FERT_AMNT1  
+                                                            fert         6        15       0.00000          FERTILIZ     APPLICATIONXX    FERT_AMNT2  
+Management_Sched                  6          0  
+                                                            fert         &         1       0.00000          FERTILIZ     APPLICATIONXX    FERT_AMNT1  
+                                                            kill         4        15       0.00000               rye              null       0.00000  
+                                                            plnt         5         1       0.00000           NE_Corn              null       0.00000  
+                                                            fert         6        15       0.00000          FERTILIZ        side_dress    FERT_AMNT2  
+                                                            hvkl        10         1       0.00000           NE_Corn            silage       0.00000  
+                                                            plnt        10        15       0.00000               rye              null       0.00000  
