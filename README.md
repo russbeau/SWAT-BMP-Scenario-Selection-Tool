@@ -1,4 +1,4 @@
-# SWAT_Watershed_Tool
+# SWAT_BMP_Scenario_Selection_Tool
 
 ## Overview
 
@@ -110,7 +110,7 @@ SWAT_Watershed_Tool/
 
 
 ## References
-Ala-aho, P., Tetzlaff, D., McNamara, J. P., Laudon, H., & Soulsby, C. (2017). 
+Ala-aho P, Tetzlaff D, McNamara J P, Laudon H, & Soulsby C (2017). 
   Using isotopes to constrain water flux and age estimates in snow-influenced
   catchments using the STARR (Spatially distributed Tracer-Aided Rainfall–Runoff)
   model. Hydrology and Earth System Sciences, 21(10), 5089–5110.
